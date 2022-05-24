@@ -1,1 +1,1 @@
-Studying reactivity in dart and flutter.
+Studying reactivity in dart.
